@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-xyf",
+  "version": "1.0.0",
+  "description": "Gitbook demo 这是一个 GitBook 自动化构建的 Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieyunfei226/gitbook-xyf.git"
+  },
+  "keywords": [],
+  "author": "xieyunfei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xieyunfei226/gitbook-xyf/issues"
+  },
+  "homepage": "https://github.com/xieyunfei226/gitbook-xyf#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
